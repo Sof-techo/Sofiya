@@ -1,0 +1,79 @@
+
+html{
+    box-sizing: border-box;
+}
+
+
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+header.button{
+    background-color: rgb(177, 166, 155);
+    font-size: 1em;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+}
+ 
+
+.first_page{
+    height: 100vh;
+    background-color: rgb(249, 243, 243)
+    display; inline-block:
+}
+ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+    background-color: rgb(88, 61, 239);
+    font-size: 1em;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+}
+
+li{ list-style: none;
+    display: inline-block;
+    padding: 1rem;
+}
+.food{
+    height: 100vh;
+    background-repeat: no-repeat; 
+    display: inline-block; 
+    }
+
+
+
+.relative-text {
+    font-size: 1.5em; /* 1.5 times the size of the parent element */
+}
+
+footer {
+   background-color: rgb(88, 61, 239);
+   padding: 1em;
+   position: fixed;
+   bottom: 0;
+   left:0;
+   right:0;
+}
+
+body {
+    background-color: rgb(232, 201, 163);
+}
+
+ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+   
+}
+
+li{ list-style: none;
+    display: inline-block;
+    padding: 1rem;
+}
