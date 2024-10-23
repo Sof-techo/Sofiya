@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(232, 201, 163);
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+   
+}
+
+li{ list-style: none;
+    display: inline-block;
+    padding: 1rem;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+    background-color:rgb(191, 191, 236);
+    font-size: 1em;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+}
+main{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+h1,p{
+    padding-left: 10%;
+}
+dt,dd{padding-top: 10px;}
+dt{font-weight: 700;}
+
+.relative-text {
+    font-size: 1.5em; 
+}
+
+footer {
+    background-color: rgb(191, 191, 236);
+
+}
