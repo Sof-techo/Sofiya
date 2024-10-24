@@ -9,7 +9,7 @@ html{
     color: black;
 }
 header.button{
-    background-color: rgb(177, 166, 155);
+    background-color:  rgb(177, 166, 155);
     font-size: 1em;
     text-align: center;
     display: inline;
@@ -18,17 +18,17 @@ header.button{
  
 
 .first_page{
-    height: 100vh;
-    background-color: rgb(249, 243, 243)
-    display; inline-block:
+    height:70vh;
+    background-color:  rgb(249, 243, 243);
+    display: inline-block;
 }
 ul li a{
     text-decoration: none;
-    color: #ffffff;
+    color: black;
     position: relative;
     left: 340px;
     font-weight: 700;
-    background-color: rgb(88, 61, 239);
+    background-color:rgb(191, 191, 236);
     font-size: 1em;
     text-align: center;
     display: inline;
@@ -48,16 +48,12 @@ li{ list-style: none;
 
 
 .relative-text {
-    font-size: 1.5em; /* 1.5 times the size of the parent element */
+    font-size: 1.5em; 
 }
 
 footer {
-   background-color: rgb(88, 61, 239);
-   padding: 1em;
-   position: fixed;
-   bottom: 0;
-   left:0;
-   right:0;
+    background-color: rgb(191, 191, 236);
+
 }
 
 body {
@@ -66,7 +62,7 @@ body {
 
 ul li a{
     text-decoration: none;
-    color: #ffffff;
+    color: black;
     position: relative;
     left: 340px;
     font-weight: 700;
@@ -74,6 +70,5 @@ ul li a{
 }
 
 li{ list-style: none;
-    display: inline-block;
     padding: 1rem;
 }

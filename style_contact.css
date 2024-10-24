@@ -1,0 +1,51 @@
+
+
+
+body {
+    background-color: rgb(232, 201, 163);
+}
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+   
+}
+
+li{ list-style: none;
+    display: inline-block;
+    padding: 1rem;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 340px;
+    font-weight: 700;
+    background-color:rgb(191, 191, 236);
+    font-size: 1em;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+}
+
+header.button{
+    background-color: rgb(177, 166, 155);
+    font-size: 1em;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+}
+.relative-text {
+    font-size: 1.5em; 
+}
+
+footer {
+    background-color: rgb(191, 191, 236);
+
+}
