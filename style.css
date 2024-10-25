@@ -18,7 +18,7 @@ header.button{
  
 
 .first_page{
-    height:70vh;
+    height:20vh;
     display: inline-block;
 }
 ul li a{
@@ -71,3 +71,4 @@ ul li a{
 li{ list-style: none;
     padding: 1rem;
 }
+
